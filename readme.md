@@ -10,7 +10,7 @@ Welcome to my personal portfolio site, built to showcase my work, skills, and on
 
 ## 🌐 Live Site
 
-👉 [Visit the live site](https://frau-jo.github.io/portfolio/)
+👉 [Visit the live site](https://jooosln.github.io/portfolio/)
 
 ---
 
